@@ -1,0 +1,12 @@
+.position {
+    position: sticky;
+    background-color: yellow;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.red {
+    background-color: rgb(184, 125, 184);
+}
